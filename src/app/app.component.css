@@ -1,4 +1,4 @@
-::ng-deep body {
+:host {
   background-image: url("/assets/img/weather.jpg");
   background-size: cover;
   height: 100vh;
